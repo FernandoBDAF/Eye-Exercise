@@ -1,4 +1,5 @@
 # Eye-Exercise
+<img href="oneeye.png" width="33%">
 
 ## Description of project
 In this project, two divs are generated and styled using CSS to depict an eye. The first div forms an oval, representing the sclera, while the second div, a circular shape, lies within it to signify the eyeball. A third div incorporates two of these elements to construct a pair of eyes, and it is styled to ensure their alignment. Finally, a JavaScript component is employed to track mouse movements, altering the position of both elements representing the eyeballs. This creates the illusion of movement, enhancing the overall visual effect.
