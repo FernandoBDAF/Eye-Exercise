@@ -1,14 +1,17 @@
 # Eye-Exercise
 <img src="oneeye.png" width="33%">
 
-## Description of project
-In this project, two divs are generated and styled using CSS to depict an eye. The first div forms an oval, representing the sclera, while the second div, a circular shape, lies within it to signify the eyeball. A third div incorporates two of these elements to construct a pair of eyes, and it is styled to ensure their alignment. Finally, a JavaScript component is employed to track mouse movements, altering the position of both elements representing the eyeballs. This creates the illusion of movement, enhancing the overall visual effect.
+## Description
+In this project, two divs are generated and styled using CSS to depict an eye. The first div forms an oval, representing the sclera, while the second div, a circular shape, lies within it to signify the eyeball. A third div incorporates two of these elements to construct a pair of eyes, and it is styled to ensure their alignment. Finally, a JavaScript component is employed to track mouse movements, altering the position of both elements representing the eyeballs. This creates the illusion of movement, enhancing the overall visual effect. Enjoy a playful visual experience as the eyes follow your mouse movements.
 
 ## How to Run
-Load the HTML file in your browser and move the mouse cursor around to check out how the eyeballs follow the movement!
+1. Clone the repository.
+2. Open the `index.html` file in a web browser.
+3. Move your mouse, and watch the eyes follow your cursor.
 
-## Roadmap of future improvements
-The next version will incorporate a nose and mouth for some extra expressions when the user clicks or hovers elements.
+## Roadmap of Future Improvements
+- Incorporate animated nose and mouth for extra expressions triggered by user clicks or element hovers.
+- Implement butterfly animation to make the eyes follow a butterfly flying randomly on the screen, adding an extra layer of interactivity and fun.
 
 ## License information
 MIT License
